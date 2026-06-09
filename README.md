@@ -11,10 +11,10 @@ Celem projektów była implementacja oraz analiza efektywności różnych algory
 
 | Folder | Zadanie | Opis |
 |---|---:|---|
-| `Algorytmem NN, RNN, BF oraz losowym` | Zadanie 1 | Algorytmy Brute Force, Nearest Neighbour, Repetitive Nearest Neighbour oraz algorytm losowy |
-| `Algorytmem B&B` | Zadanie 2 | Algorytm Branch and Bound |
-| `Algorytmem SW` | Zadanie 3 | Algorytm symulowanego wyżarzania |
-| `Algorytmem GA` | Zadanie 4 | Algorytm genetyczny |
+| `Algorytmem NN, RNN, BF oraz losowym` | Zadanie 1  | Algorytmy Brute Force, Nearest Neighbour, Repetitive Nearest Neighbour oraz algorytm losowy |
+| `Algorytmem B&B` | Zadanie 2  | Algorytm Branch and Bound |
+| `Algorytmem SW` | Zadanie 3  | Algorytm symulowanego wyżarzania |
+| `Algorytmem GA` | Zadanie 4  | Algorytm genetyczny |
 
 ---
 
@@ -86,6 +86,4 @@ Zaimplementowano:
 - dynamiczna alokacja struktur danych
 - obsługa plików wejściowych
 - zapis wyników do plików tekstowych oraz CSV
-
----
 
