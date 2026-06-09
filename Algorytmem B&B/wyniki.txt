@@ -1,0 +1,2 @@
+N;avg_time_s;interrupt_pct
+20;300.009698;100.00
